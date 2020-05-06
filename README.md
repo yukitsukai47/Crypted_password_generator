@@ -7,6 +7,14 @@
 cat (暗号化されたファイル名) | python3 crypto.py -d > (出力したいファイル名)
 ```
 
+This program automatically generates a password and outputs it to a text file.  
+After that, the output text file is encrypted with a password.  
+Decryption is done using the crypto.py option -d.  
+
+```
+cat (encrypted filename) | python3 crypto.py -d > (name of the file you want to output)
+```
+
 # 動作環境
 mac or Linux
 Python 3系（python3.8確認済み）
