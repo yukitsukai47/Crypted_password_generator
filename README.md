@@ -15,11 +15,11 @@ Decryption is done using the crypto.py option -d.
 cat (encrypted filename) | python3 crypto.py -d > (name of the file you want to output)
 ```
 
-# 動作環境
+# 動作環境(operating environment)
 mac or Linux
 Python 3系（python3.8確認済み）
 
-# 使い方
+# 使い方(How to use)
 python3 password_generator.py
 
 <img width="836" alt="screenshot" src="https://user-images.githubusercontent.com/52772923/81141115-94157a00-8fa6-11ea-9e25-41ec2a5fcf68.png">
