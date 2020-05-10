@@ -16,7 +16,7 @@ cat (encrypted filename) | python3 crypto.py -d > (name of the file you want to 
 ```
 
 # 動作環境(operating environment)
-mac or Linux
+mac or Linux  
 Python 3系（python3.8確認済み）
 
 # 使い方(How to use)
